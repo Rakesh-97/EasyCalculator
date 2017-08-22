@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/titleofhistory"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorAccent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="Histories "
+        android:textSize="30sp"
+        />*/
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_below="@+id/titleofhistory"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="80dp"
+        android:layout_height="400dp"
+        android:gravity="left"
+        android:id="@+id/historyid"
+        android:textSize="20sp"
+        />
+
+
+</RelativeLayout>
