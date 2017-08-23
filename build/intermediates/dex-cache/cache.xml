@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\4f7ade30dd813b5959ec5c731129ed8e0a5b7f3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\pre-dexed\debug\classes_2d4c6419163bc2bb4d6be24f6dc324578f7571fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6026f26ed09c818e6b84d6f73adcf4387e0a5bf6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_987c9432dd116c0b18062193797d0b6a471d540d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.3\baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\pre-dexed\debug\baseLibrary-2.3.3_cc3afaf91424e734a49c56928e36b4d96c0d272b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\66ce7edac989d3642183e67a3338988d368f3f88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\pre-dexed\debug\classes_eb849ea4c54ab3939520ac360feeee4d369997d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\1541f389ff9fcfa0011ef4151b33e9e1a1cd5d7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\pre-dexed\debug\classes_8171c75866f8b25731d06c0795679ab403c5d099.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="504fffbf7ae25338a974d7788cdb9b9fd0dd0d92">
+        <dex dex="C:\Users\Rakesh\AndroidStudioProjects\EasyCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ca7c0dd521c188ce84da753898a41a49d4a7d344\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Mon Aug 21 18:38:39 GMT-08:00 2017
+base.0=C\:\\Users\\Rakesh\\AndroidStudioProjects\\EasyCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rakesh\\AndroidStudioProjects\\EasyCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
